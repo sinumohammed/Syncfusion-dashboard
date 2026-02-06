@@ -23,15 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "node_modules/@syncfusion/ej2-angular-charts/styles/material.css",
-              "node_modules/@syncfusion/ej2-angular-grids/styles/material.css",
-              "node_modules/@syncfusion/ej2-angular-circulargauge/styles/material.css",
-              "node_modules/@syncfusion/ej2-angular-layouts/styles/material.css",
-              "node_modules/@syncfusion/ej2-angular-buttons/styles/material.css",
-              "node_modules/@syncfusion/ej2-angular-calendars/styles/material.css",
-              "node_modules/@syncfusion/ej2-angular-inputs/styles/material.css",
-              "node_modules/@syncfusion/ej2-angular-lists/styles/material.css"
+              "src/styles.css"
             ],
             "scripts": []
           },
